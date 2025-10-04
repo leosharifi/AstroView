@@ -1,7 +1,4 @@
-<video width="640" height="360" controls>
-  <source src="./assets/Screen Recording 2025-10-04 154041.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![AstroView Demo](./assets/Screen%20Recording%202025-10-04%20154041.gif)
 
 # 🌌 AstroView
 
