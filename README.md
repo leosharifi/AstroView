@@ -19,7 +19,7 @@ Pick any date from **June 16, 1995**, to today and discover incredible photos an
 
 ## 💻 Live Demo
 
-Check it out here: 👉 [https://yourusername.github.io/AstroView](https://yourusername.github.io/AstroView)
+Check it out here: 👉 ([elyas-astro-view.vercel.app](https://elyas-astro-view.vercel.app))
 
 ---
 
@@ -48,5 +48,5 @@ Check it out here: 👉 [https://yourusername.github.io/AstroView](https://youru
 
 [![Author](https://img.shields.io/badge/Author-leosharifi-blue)](https://github.com/leosharifi)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://yourusername.github.io/AstroView)  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://elyas-astro-view.vercel.app)  
 [![Technologies](https://img.shields.io/badge/Technologies-HTML5%20|%20CSS3%20|%20JavaScript-orange)](https://github.com/leosharifi/AstroView)
