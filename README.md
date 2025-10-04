@@ -1,4 +1,4 @@
-![AstroView Demo](./assets/Screen%20Recording%202025-10-04%20154041.gif)
+<img src="./assets/Screen%20Recording%202025-10-04%20154041.gif" width="100%" height="400" object-fit="cover" alt="AstroView Demo">
 
 # 🌌 AstroView
 
